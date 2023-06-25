@@ -1,0 +1,11 @@
+{
+  "name": "glfw-example",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "glfw3",
+    {
+      "name": "glad",
+      "features": ["extensions"] 
+    }
+  ]
+}
